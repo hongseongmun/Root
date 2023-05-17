@@ -1,0 +1,18 @@
+﻿  소스.cpp
+C:\TestTestTest\Week8\Week8\소스.cpp(34,27): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\TestTestTest\Week8\Week8\소스.cpp(38,31): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\TestTestTest\Week8\Week8\소스.cpp(95,35): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\TestTestTest\Week8\Week8\소스.cpp(111,56): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\TestTestTest\Week8\Week8\소스.cpp(112,35): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\TestTestTest\Week8\Week8\소스.cpp(116,44): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\TestTestTest\Week8\Week8\소스.cpp(119,44): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\TestTestTest\Week8\Week8\소스.cpp(122,44): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\TestTestTest\Week8\Week8\소스.cpp(125,44): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\TestTestTest\Week8\Week8\소스.cpp(144,19): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\TestTestTest\Week8\Week8\소스.cpp(147,23): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\TestTestTest\Week8\Week8\소스.cpp(238,32): warning C4244: '=': 'wchar_t'에서 'char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\TestTestTest\Week8\Week8\소스.cpp(240,24): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\TestTestTest\Week8\Week8\소스.cpp(240,24): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\TestTestTest\Week8\Week8\소스.cpp(252,25): warning C4477: 'wprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\TestTestTest\Week8\Week8\소스.cpp(252,25): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  Week8.vcxproj -> C:\TestTestTest\Week8\x64\Debug\Week8.exe
